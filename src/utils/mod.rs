@@ -1,5 +1,9 @@
 pub mod google;
 pub mod twitter;
+pub mod github;
+pub mod stackoverflow;
+pub mod reddit;
+pub mod linkedin;
 
 pub fn get_command_from_query_string(_query_string: &str)-> &str {
     if _query_string.contains(' ') {
