@@ -4,32 +4,32 @@ Hopper is a smart bookmarking tool to your favourite websites.
 ## Commands
 
 ### Github:
-gh
-gh @<username>
-gh <search-query>
+- gh
+- gh @<username>
+- gh <search-query>
   
 
 ### Stackoverflow:
-st
-st <search-query>
+- st
+- st <search-query>
 
 
 ### Twitter:
-tw
-tw @<username>
-tw <search-query>
+- tw
+- tw @<username>
+- tw <search-query>
   
 
 ### Reddit:
-rd
-rd r/<subreddit>
-rd <search-query>
+- rd
+- rd r/<subreddit>
+- rd <search-query>
  
 
 ### Linkedin:
-ln
-ln @<username>
-ln <search-query>
+- ln
+- ln @<username>
+- ln <search-query>
   
 ### To use:
   Add this as your custom search engine in your browser:
