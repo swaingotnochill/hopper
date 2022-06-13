@@ -3,34 +3,34 @@ Hopper is a smart bookmarking tool to your favourite websites.
 
 ## Commands
 
-### Github:
+##### Github:
 - gh
-- gh @<username>
-- gh <search-query>
+- gh @username
+- gh search-query
   
 
-### Stackoverflow:
+##### Stackoverflow:
 - st
-- st <search-query>
+- st search-query
 
 
-### Twitter:
+##### Twitter:
 - tw
-- tw @<username>
-- tw <search-query>
+- tw @username
+- tw search-query
   
 
-### Reddit:
+##### Reddit:
 - rd
-- rd r/<subreddit>
-- rd <search-query>
+- rd r/subredditname
+- rd search-query
  
 
-### Linkedin:
+##### Linkedin:
 - ln
-- ln @<username>
-- ln <search-query>
+- ln @username
+- ln search-query
   
-### To use:
+##### To use:
   Add this as your custom search engine in your browser:
   https://fierce-stream-22247.herokuapp.com/
